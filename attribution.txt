@@ -1,0 +1,5 @@
+Title of work: Cloud Pak for Data systems
+Link to work: https://www.ibm.com/docs/en/cloud-paks/cloudpak-data-system/1.0.x.x 
+License of the work: CC-BY-SA-4.0
+Creator names: IBM Corporation
+Publication Date: 07/16/2024 
